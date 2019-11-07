@@ -1,0 +1,1 @@
+let yourArray = ['Inggrid', 23, true, null, "English Man in Newyork"];
